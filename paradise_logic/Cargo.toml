@@ -1,0 +1,9 @@
+[package]
+name = "paradise_logic"
+version = "0.1.0"
+authors = ["Leonard Dahlmann <leo.dahlmann@gmail.com>"]
+
+[dependencies]
+lockstep = { path = "../lockstep" }
+serde = "1.0"
+nalgebra = "0.15"

@@ -1,2 +1,2 @@
 [workspace]
-members = ["lockstep", "paradise"]
+members = ["lockstep", "paradise_logic", "paradise"]
