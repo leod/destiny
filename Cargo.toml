@@ -1,0 +1,2 @@
+[workspace]
+members = ["lockstep", "paradise"]
